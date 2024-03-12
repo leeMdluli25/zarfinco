@@ -1,0 +1,77 @@
+.forgot-password-form {
+    /* ... */
+    font-size: large;
+    text-align: center;
+    text-decoration: wavy;
+    background-color: #fff;
+    padding: 60px 90px;
+    /*border: 8px solid goldenrod;*/
+    border-radius: 30%;
+    box-shadow: 15px 15px goldenrod;
+    height: 400px;
+    width: 900px;
+    position: fixed;
+    left: 13%;
+    top: 10%;
+  }
+  
+  .forgot-password-form input {
+    /* ... */
+    background-color: #013A51;
+    width: 60%;
+    padding: 20px 32px;
+    margin: 8px 0;
+    border: 5px solid #013A51;
+    border-radius: 50px;
+    box-sizing: border-box;
+    font-style: oblique;
+    text-align: center;
+    box-shadow: 4px 4px goldenrod;
+    margin-bottom: 15px;
+  }
+
+  .forgot-password-form button {
+
+  background-color: #fff;
+  color: #013A51;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: solid;
+  display: inline-block;
+  font-size: 25px;
+  margin: 6px 4px;
+  cursor: pointer;
+  border: 4px solid #013A51;
+  border-radius: 40%;
+  box-shadow: 4px 4px goldenrod;
+  }
+
+  .forgot-password-form h2 {
+    /*font-size: 1.5em;
+    margin-bottom: 15px;*/
+
+    text-align: center;
+        font-size: 40px;
+        font-family: 'Times New Roman', Times, serif;
+        color: #013A51;
+        text-shadow: 2px 2px goldenrod;
+        position: fixed;
+        top: 12%;
+        left: 35%;
+  }
+
+  img {
+    position: fixed;
+        top: 5%;
+        left: 5%;
+        width: 150px;
+        height: 80px;
+  }
+
+  h5 {
+    text-align: center;
+    position: fixed;
+    left: 43%;
+    top: 90%;
+    color: #013A51;
+  }
